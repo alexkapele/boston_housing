@@ -4,7 +4,7 @@
 
 ### Description
 
-In this project a decision tree regressor was trained and tested on data collected from houses in suburbs of Boston, Massachusetts, with the aim of predicting their monetary value. The project is primarily focused on the evaluation of the performance and predictive power of the model. 
+In this project, a decision tree regressor was trained and tested on data collected from houses in suburbs of Boston, Massachusetts, with the aim of predicting their monetary value. The project is primarily focused on the evaluation of the performance and predictive power of the model. 
 
 ### Data
 
