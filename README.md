@@ -1,5 +1,6 @@
-# Project: Predicting Boston Housing Prices
+# Predicting Boston Housing Prices
 ## Udacity Machine Learning Engineer Nanodegree
+## Model Evaluation & Validation
 
 ### Description
 
